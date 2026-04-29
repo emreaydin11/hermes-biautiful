@@ -1,14 +1,5 @@
-# Vercel XHTTP Relay
+# hermes soldire
 
-### 🇮🇷 راهنمای کامل فارسی — Complete Persian Setup Guide
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-%40avaco__cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avaco_cloud)
-
-> 📢 **کانال تلگرام Avaco Cloud** — برای آموزش‌های بیشتر، آپدیت‌ها، روش‌های دور زدن سانسور و کانفیگ‌های جدید عضو شو:
-> 
-> 👉 **[https://t.me/avaco_cloud](https://t.me/avaco_cloud)**
-
-A minimal relay running on **Vercel Edge Functions** that forwards **XHTTP** traffic from your Xray/V2Ray client to your backend Xray server. The goal: use Vercel's global edge network and the `*.vercel.app` domain as a front to hide the real IP of your origin server.
 
 ---
 
