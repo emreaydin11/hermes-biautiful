@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "emrebey",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ],
+  "trailingSlash": false
+}
